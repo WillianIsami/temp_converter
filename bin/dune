@@ -1,0 +1,4 @@
+(executable
+ (public_name temp_converter)
+ (name main)
+ (libraries temp_converter dream))
